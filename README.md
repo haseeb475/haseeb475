@@ -1,7 +1,11 @@
 👋 Hi, I’m @haseeb475
+
 👀 I’m currently working as a backend developer and have a strong interest in computer vision.
+
 🌱 I’m continually learning and expanding my skills in web development.
+
 💞️ I’m open to collaborating on projects related to both computer vision and web development.
+
 📫 How to reach me: haseeb277476@gmail.com
 
 <!---
