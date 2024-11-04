@@ -1,13 +1,20 @@
-👋 Hi, I’m @haseeb475
+# 👋 Hello, I'm Haseeb
 
-👀 I’m currently working as a backend developer and have a strong interest in computer vision.
+I’m a dedicated **backend developer** with a strong foundation in web development and experience in cybersecurity-focused applications. I have a passion for building efficient, secure, and scalable systems that deliver impactful results.
 
-🌱 I’m continually learning and expanding my skills in web development.
+### 🌱 Currently:
+- Enhancing my skills in full-stack development, particularly in backend technologies and DevOps practices.
+- Working on projects that utilize the MERN stack, TypeScript, and various cloud services.
 
-💞️ I’m open to collaborating on projects related to both computer vision and web development.
+### 💼 Skills & Expertise:
+- **Backend Development**: Node.js, Express, MongoDB, REST APIs
+- **Frontend Technologies**: React, TypeScript
+- **Tools & Technologies**: Azure DevOps, Docker, Electron, Elasticsearch, Redis
+- **Database Management**: MongoDB, SQL, MySQL
+- **Secure Programming**: Implementing security best practices in development
 
-📫 How to reach me: haseeb277476@gmail.com
+### 📈 Open to Collaborate:
+I'm always interested in collaborating on projects related to web application development, backend optimization, and cloud integration.
 
-<!---
-haseeb475/haseeb475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
---->
+### 📫 How to Reach Me:
+Feel free to reach out via email at haseeb277476@gmail.com
