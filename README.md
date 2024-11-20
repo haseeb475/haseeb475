@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Haseeb
 
-I’m a dedicated **backend developer** with a strong foundation in web development and experience in cybersecurity-focused applications. I have a passion for building efficient, secure, and scalable systems that deliver impactful results.
+I’m a dedicated **full stack developer** with a strong foundation in web development and experience in cybersecurity-focused applications. I have a passion for building efficient, secure, and scalable systems that deliver impactful results.
 
 ### 🌱 Currently:
 - Enhancing my skills in full-stack development, particularly in backend technologies and DevOps practices.
