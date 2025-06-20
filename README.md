@@ -8,7 +8,7 @@ I’m a dedicated **full stack developer** with a strong foundation in web devel
 
 ### 💼 Skills & Expertise:
 - **Backend Development**: Node.js, Express, MongoDB, REST APIs
-- **Frontend Technologies**: React, TypeScript
+- **Frontend Technologies**: React, Vue, Javascript, TypeScript
 - **Tools & Technologies**: Azure DevOps, Docker, Electron, Elasticsearch, Redis
 - **Database Management**: MongoDB, SQL, MySQL
 - **Secure Programming**: Implementing security best practices in development
