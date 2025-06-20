@@ -130,7 +130,7 @@ graph LR
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haseeb475&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=haseeb475&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
